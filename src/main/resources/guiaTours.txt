@@ -1,0 +1,6 @@
+Francisco Silva
+Temuco,Treking,20000,20
+Pto Montt,Senderismo,30000,10
+Pto Varas,Caminata por la ciudad,20000,15
+Villarica,Tour guiado,15000,20
+Coquimbo,Tour Valle del Elqui,25000,25
